@@ -9,6 +9,8 @@
     "entryPoint": "server.js"
   },
   "dependencies": {
+    "chart.js": "^2.8.0",
+    "handlebars-helpers": "^0.10.0",
     "jsreport": "2.4.0",
     "jsreport-phantom-pdf": "^2.2.0",
     "phantomjs-exact-2-1-1": "^0.1.0"
