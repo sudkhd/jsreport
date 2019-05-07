@@ -1,0 +1,24 @@
+{
+    "phantom": {},
+    "recipe": "xlsx",
+    "engine": "handlebars",
+    "data": {
+        "shortid": "SJzJyv829e"
+    },
+    "xlsxTemplate": {
+        "shortid": "BkJt9tnql"
+    },
+    "shortid": "r18kyD83ce",
+    "name": "population-main",
+    "folder": {
+        "shortid": "0ppeLV"
+    },
+    "creationDate": {
+        "$$date": 1557189772402
+    },
+    "modificationDate": {
+        "$$date": 1557189772402
+    },
+    "_id": "ptH0ks904KhCuXtr",
+    "$entitySet": "templates"
+}

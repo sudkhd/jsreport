@@ -52,5 +52,8 @@
   },
   "chrome": {
     "timeout": 40000
+  },
+  "phantom": {   
+    "defaultPhantomjsVersion": "2.1.1"
   }
 }

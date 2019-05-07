@@ -1,0 +1,92 @@
+2019-05-07T00:42:49.405Z - info: Initializing jsreport@2.4.0 in development mode using configuration file: jsreport.config.json
+2019-05-07T00:42:49.407Z - info: Searching for available extensions in C:\Users\Madhu\projects\js-report\
+2019-05-07T00:42:49.411Z - info: Extensions location cache not found, crawling directories
+2019-05-07T00:42:50.610Z - info: Found 31 extensions
+2019-05-07T00:42:50.957Z - info: Using extension import-export
+2019-05-07T00:42:51.106Z - info: Using extension tags
+2019-05-07T00:42:51.110Z - info: Using extension templates
+2019-05-07T00:42:51.113Z - info: Using extension jsrender
+2019-05-07T00:42:51.115Z - info: Using extension handlebars
+2019-05-07T00:42:51.118Z - info: Using extension cli
+2019-05-07T00:42:51.120Z - info: Using extension freeze
+2019-05-07T00:42:51.123Z - info: Using extension debug
+2019-05-07T00:42:51.125Z - info: Using extension express
+2019-05-07T00:42:51.271Z - info: Using extension pdf-utils
+2019-05-07T00:42:51.352Z - info: Using extension data
+2019-05-07T00:42:51.353Z - info: Using extension chrome-pdf
+2019-05-07T00:42:51.435Z - info: Using extension child-templates
+2019-05-07T00:42:51.441Z - info: Using extension browser-client
+2019-05-07T00:42:51.444Z - info: Using extension licensing
+2019-05-07T00:42:51.452Z - info: Using extension authorization
+2019-05-07T00:42:51.456Z - info: Using extension version-control
+2019-05-07T00:42:51.536Z - info: Using extension reports
+2019-05-07T00:42:51.545Z - info: Using extension text
+2019-05-07T00:42:51.550Z - info: Using extension base
+2019-05-07T00:42:51.552Z - info: Using extension studio
+2019-05-07T00:42:51.568Z - info: Using extension fs-store
+2019-05-07T00:42:51.848Z - info: Using extension scheduling
+2019-05-07T00:42:51.900Z - info: Using extension scripts
+2019-05-07T00:42:51.905Z - info: Using extension assets
+2019-05-07T00:42:51.914Z - info: Using extension html-to-xlsx
+2019-05-07T00:42:52.016Z - info: html-to-xlsx detected chrome as available html engine
+2019-05-07T00:42:52.017Z - info: Using extension xlsx
+2019-05-07T00:42:52.129Z - info: Using extension sample-template
+2019-05-07T00:42:52.133Z - info: Using extension resources
+2019-05-07T00:42:52.134Z - info: Using extension public-templates
+2019-05-07T00:42:52.144Z - info: fs store is persisting using fs
+2019-05-07T00:42:52.144Z - info: fs store is synchronizing using fs
+2019-05-07T00:42:52.147Z - info: fs store is loading data
+2019-05-07T00:42:52.175Z - info: fs store is initialized successfully
+2019-05-07T00:42:52.191Z - info: Creating default express app.
+2019-05-07T00:42:52.216Z - info: jsreport server successfully started on https port: 5488
+2019-05-07T00:42:52.217Z - info: fs store emits sockets to synchronize underlying changes with studio
+2019-05-07T00:42:52.235Z - info: Verifying license key free
+2019-05-07T00:42:52.237Z - info: Using free license
+2019-05-07T00:42:52.549Z - info: reporter initialized
+2019-05-07T00:46:01.939Z - info: Initializing jsreport@2.4.0 in development mode using configuration file: jsreport.config.json
+2019-05-07T00:46:01.940Z - info: Searching for available extensions in C:\Users\Madhu\projects\js-report\
+2019-05-07T00:46:01.945Z - info: Extensions location cache C:\Users\Madhu\AppData\Local\Temp\jsreport\core\locations.json contains older information, crawling
+2019-05-07T00:46:03.684Z - info: Found 32 extensions
+2019-05-07T00:46:03.969Z - info: Using extension handlebars
+2019-05-07T00:46:03.974Z - info: Using extension jsrender
+2019-05-07T00:46:03.976Z - info: Using extension templates
+2019-05-07T00:46:03.980Z - info: Using extension import-export
+2019-05-07T00:46:04.116Z - info: Using extension freeze
+2019-05-07T00:46:04.119Z - info: Using extension cli
+2019-05-07T00:46:04.120Z - info: Using extension express
+2019-05-07T00:46:04.281Z - info: Using extension debug
+2019-05-07T00:46:04.286Z - info: Using extension tags
+2019-05-07T00:46:04.289Z - info: Using extension data
+2019-05-07T00:46:04.290Z - info: Using extension fs-store
+2019-05-07T00:46:04.569Z - info: Using extension authorization
+2019-05-07T00:46:04.580Z - info: Using extension child-templates
+2019-05-07T00:46:04.588Z - info: Using extension browser-client
+2019-05-07T00:46:04.592Z - info: Using extension licensing
+2019-05-07T00:46:04.600Z - info: Using extension chrome-pdf
+2019-05-07T00:46:04.677Z - info: Using extension phantom-pdf
+2019-05-07T00:46:04.706Z - info: Using extension version-control
+2019-05-07T00:46:04.791Z - info: Using extension reports
+2019-05-07T00:46:04.799Z - info: Using extension text
+2019-05-07T00:46:04.802Z - info: Using extension base
+2019-05-07T00:46:04.804Z - info: Using extension studio
+2019-05-07T00:46:04.822Z - info: Using extension pdf-utils
+2019-05-07T00:46:04.902Z - info: Using extension scheduling
+2019-05-07T00:46:04.953Z - info: Using extension scripts
+2019-05-07T00:46:04.957Z - info: Using extension html-to-xlsx
+2019-05-07T00:46:05.069Z - info: html-to-xlsx detected chrome as available html engine
+2019-05-07T00:46:05.070Z - info: html-to-xlsx detected phantom as available html engine
+2019-05-07T00:46:05.071Z - info: Using extension assets
+2019-05-07T00:46:05.086Z - info: Using extension xlsx
+2019-05-07T00:46:05.200Z - info: Using extension sample-template
+2019-05-07T00:46:05.204Z - info: Using extension resources
+2019-05-07T00:46:05.205Z - info: Using extension public-templates
+2019-05-07T00:46:05.210Z - info: fs store is persisting using fs
+2019-05-07T00:46:05.211Z - info: fs store is synchronizing using fs
+2019-05-07T00:46:05.213Z - info: fs store is loading data
+2019-05-07T00:46:05.299Z - info: fs store is initialized successfully
+2019-05-07T00:46:05.326Z - info: Creating default express app.
+2019-05-07T00:46:05.350Z - info: jsreport server successfully started on https port: 5488
+2019-05-07T00:46:05.352Z - info: fs store emits sockets to synchronize underlying changes with studio
+2019-05-07T00:46:05.373Z - info: Verifying license key free
+2019-05-07T00:46:05.374Z - info: Using free license
+2019-05-07T00:46:05.378Z - info: reporter initialized
